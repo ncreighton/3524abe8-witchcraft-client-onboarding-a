@@ -1,2 +1,31 @@
-# 3524abe8-witchcraft-client-onboarding-a
-n8n automation workflow for witchcraft practitioners and spiritual coaches to onboard new clients automatically. Triggered when a new client books a reading or coaching session via Calendly, Acuity, or a custom form. Sends a personalized welcome email with moon phase for their birthdate, a pre-session questionnaire form, a digital intake form link,
+# Witchcraft Client Onboarding Automation Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ14n7r1e2Mg88bzScZa3y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ14n7r1e2Mg88bzScZa3y)
+- [Buy on Gumroad](https://witchcraftguy.gumroad.com/l/gnkbn)
+- [Buy on Whop](https://whop.com/witchcraft-client-onboarding-automation-workflow)
+
